@@ -27,7 +27,7 @@ All nodes run Ubuntu 22.04 LTS and are connected via high-speed Infiniband NDR 4
 - Package installation
 - File transfers
 
-### GPU Compute Nodes (qcommthub1, qcommthub2)
+### GPU Compute Nodes (`qcommthub1`, `qcommthub2`)
 
 | Component | Specification |
 |-----------|---------------|
